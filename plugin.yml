@@ -1,0 +1,6 @@
+name: AntiExplosion
+main: me.dirouc.antiexplosion.AntiExplosion
+version: "1.0.0"
+author: dirouc
+api: ["1.0.0"]
+website: https://github.com/Nukkit-coders/AntiExplosion
